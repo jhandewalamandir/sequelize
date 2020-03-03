@@ -23,10 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jhandewalamandir/sequelize.git"
+    "url": "git+https://github.com/kalrasunia/sequelize.git"
   },
   "bugs": {
-    "url": "https://github.com/jhandewalamandir/sequelize/issues"
+    "url": "https://github.com/kalrasunia/sequelize.git/issues"
   },
-  "homepage": "https://github.com/jhandewalamandir/sequelize#readme"
+  "homepage": "https://github.com/kalrasunia/sequelize.git#readme"
 }
+
