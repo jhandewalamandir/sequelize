@@ -1,7 +1,7 @@
 {
   "name": "postgres-express-react-node-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "readme.txt",
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon ./bin/www",
@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhandewalamandir/sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhandewalamandir/sequelize/issues"
+  },
+  "homepage": "https://github.com/jhandewalamandir/sequelize#readme"
 }
